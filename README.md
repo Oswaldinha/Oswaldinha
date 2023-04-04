@@ -2,6 +2,12 @@
 
 ###### Sobre o Lucas
 
+• Desenvolvedor Front-end 💻
+
+• Estudante da RocketSeat 🚀
+
+• Estudante de Ciência de Dados pela Estácio de Sá 🎓
+
 
 Detalhes
 
