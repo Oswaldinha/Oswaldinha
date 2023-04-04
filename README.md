@@ -18,7 +18,7 @@ Detalhes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaldinha)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Projeto Online
+# Projeto Online (Jornada Dev EBAC "TikTok Clone")
 
 link:
 
