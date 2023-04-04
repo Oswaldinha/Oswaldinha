@@ -1,6 +1,6 @@
 ### Fala ai, galera ✌
 
-###### Sobre o Lucas
+## Sobre o Lucas
 
 • Desenvolvedor Front-end 💻
 
