@@ -1,4 +1,4 @@
-### Fala ai, galera 👋
+### Fala ai, galera ✌
 
 ###### Sobre o Lucas
 
