@@ -2,11 +2,11 @@
 
 ## Sobre o Lucas
 
-• Desenvolvedor Front-end 💻
+• Analista de Dados e Desenvolvedor Python 💻
 
-• Estudante da RocketSeat 🚀
+• Estudante do Curso em Vídeo e Rocketseat🚀
 
-• Estudante de Ciência de Dados pela Estácio de Sá 🎓
+• Estudante de Ciência de Dados pela Unifatecie 🎓
 
 
 Detalhes
